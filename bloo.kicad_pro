@@ -863,7 +863,7 @@
       {
         "filename": "bloo.kicad_sch",
         "name": "bloo",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "9031bb33-c6aa-4758-bf5c-3274ed3ebab7"
       }
     ],
     "used_designators": "",
@@ -872,7 +872,7 @@
   "sheets": [
     [
       "9031bb33-c6aa-4758-bf5c-3274ed3ebab7",
-      "Root"
+      "bloo"
     ]
   ],
   "text_variables": {},
